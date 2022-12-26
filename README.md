@@ -5,4 +5,4 @@
 ![updated table](https://user-images.githubusercontent.com/119667672/209565123-552c1742-c3eb-4e36-a0c0-3278815eaefb.JPG)
 ![delete](https://user-images.githubusercontent.com/119667672/209565130-9d9a92bb-8d87-4265-9c79-5ecf9de04f52.JPG)
 ![deleted2](https://user-images.githubusercontent.com/119667672/209565136-6473ee09-2f01-4aa8-9117-03b0b8ca4d82.JPG)
-![deleted2](https://user-images.githubusercontent.com/119667672/209565142-aa44d647-08d7-469a-8803-8321abae302e.JPG)
+
